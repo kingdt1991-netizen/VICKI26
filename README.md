@@ -1,24 +1,9 @@
-# LuMarea: The First Light
+# Project moved to private LuMarea repository
 
-This repository is being repurposed as the production home for the **LuMarea: The First Light** Unity 6 URP vertical slice.
+The LuMarea Unity vertical-slice implementation formerly maintained here was consolidated into the owner-controlled private `kingdt1991-netizen/LuMarea` repository on 2026-08-21.
 
-## Locked opening sequence
+This public repository no longer contains the active implementation.
 
-Dyno Games sunrise intro → gulls fly toward town → camera pushes toward LuMarea → warmth fades → Mist rolls in → title reveal → Gimble arrives by boat → silent ruined harbor → debris clearing → lighthouse repair → First Light ignition → Mist retreats → town warms → HUD awakens.
+Copyright (c) 2026 Deon Tate. All rights reserved. Public visibility does not grant a license, transfer ownership, or authorize copying, modification, distribution, training, reverse engineering, or derivative works.
 
-## Canon guardrails
-
-- Dyno mascot/logo: use only approved reference artwork; no AI redesigns.
-- Gimble and specialists: use only approved locked character references; no AI redesigns.
-- Signature LuMarea assets (Great Lighthouse, Gimble's lantern/compass, key architecture, Mist behavior): original/customized production assets.
-- Third-party assets/tools must pass license, provenance, commercial-use, trademark, and mobile-performance review before shipping.
-
-## Engine target
-
-- Unity 6
-- Universal Render Pipeline (URP)
-- Mobile portrait-first vertical slice
-
-## Current goal
-
-Get the entire opening loop running end-to-end before replacing graybox assets with production art.
+The historical public disclosure record is preserved by its original Git commit identifiers. Removal from the current working tree does not erase prior public availability.
