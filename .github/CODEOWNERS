@@ -1,8 +1,0 @@
-# Require the repository owner to review all production changes.
-* @kingdt1991-netizen
-
-# Security-sensitive surfaces.
-/.github/ @kingdt1991-netizen
-/Packages/ @kingdt1991-netizen
-/ProjectSettings/ @kingdt1991-netizen
-/Assets/Scripts/ @kingdt1991-netizen
