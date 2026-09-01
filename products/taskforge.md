@@ -1,8 +1,10 @@
 # TaskForge
 
+**by Black Knight Technology**
+
 ## Verified Execution for Structured Jobs
 
-TaskForge is a developer-oriented execution layer for structured, machine-run jobs. It is designed around explicit job identity, approved scope, payment verification where applicable, execution boundaries, and evidence that the requested work was actually performed.
+TaskForge is a Black Knight Technology developer-oriented execution layer for structured, machine-run jobs. It is designed around explicit job identity, approved scope, payment verification where applicable, execution boundaries, and evidence that the requested work was actually performed.
 
 ### What it is built for
 
