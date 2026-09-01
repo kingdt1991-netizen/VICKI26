@@ -2,9 +2,19 @@
 
 **by Black Knight Technology**
 
+**✓ Runtime Exercised** · **✓ Marketplace Field-Tested** · **✓ Payment-Gated Execution**
+
 ## Verified Execution for Structured Jobs
 
 TaskForge is a Black Knight Technology developer-oriented execution layer for structured, machine-run jobs. It is designed around explicit job identity, approved scope, payment verification where applicable, execution boundaries, and evidence that the requested work was actually performed.
+
+### Proof of operation
+
+TaskForge has active worker, verifier, checkout, settlement-watching, marketplace, RapidAPI, and x402 surfaces. Its deployed runtime has processed substantial machine-service traffic and has been exercised against external marketplace-style workflows.
+
+Marketplace exposure and runtime volume are not represented as customer revenue unless a paid settlement is independently verified.
+
+[See Black Knight Technology Proof of Operation](../PROOF_OF_OPERATION.md)
 
 ### What it is built for
 
