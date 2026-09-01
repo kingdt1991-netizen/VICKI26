@@ -2,9 +2,19 @@
 
 **by Black Knight Technology**
 
+**✓ Live Checkout** · **✓ Paid Intake Deployed** · **✓ Fulfillment Worker Deployed**
+
 ## Evidence Assurance for AI and Software Decisions
 
 ProofForge is a Black Knight Technology evidence and assurance product family designed to help teams inspect claims, evidence, and machine-generated decisions with a clearer record of what supports the result.
+
+### Proof of operation
+
+ProofForge has active production checkout paths for its public products, a dedicated paid-intake function, and a deployed fulfillment worker.
+
+These labels describe deployed commerce and fulfillment infrastructure. They do not claim completed customer orders unless independently verified.
+
+[See Black Knight Technology Proof of Operation](../PROOF_OF_OPERATION.md)
 
 ### Public product family
 
