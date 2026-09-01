@@ -30,6 +30,16 @@ These labels describe deployed commerce and fulfillment infrastructure. They do 
   Examines an AI/agent decision and the evidence trail supporting that decision.  
   [Buy Agent Decision Audit](https://buy.stripe.com/00wdR20b83kZb0S0Dyco00p)
 
+### What the buyer receives
+
+| Product | Scope | Delivered result |
+|---|---|---|
+| Evidence Claim Check | One bounded claim and the supplied evidence | PASS, REVIEW, or BLOCK determination; reason codes; evidence gaps; corrective actions |
+| Evidence Assurance Report | Multiple supplied evidence items and related claims | Evidence-strength analysis; unsupported-claim findings; provenance gaps; prioritized remediation |
+| Agent Decision Audit | One bounded autonomous-agent decision trail | Decision-boundary and evidence review; assurance findings; action report |
+
+Delivery timing is confirmed after secure intake and scope validation. ProofForge does not represent synthetic testing as customer fulfillment.
+
 ### Best fit
 
 - AI product teams
@@ -45,3 +55,5 @@ ProofForge is not presented as a replacement for legal, regulatory, or professio
 ### Fulfillment
 
 Each live checkout routes into Black Knight Technology's approved ProofForge intake workflow. Private implementation, credentials, and internal repositories remain outside this public storefront.
+
+> Stripe may display the legal merchant name **Black Knight Transportation LLC**. ProofForge is sold under the **Black Knight Technology** brand.
