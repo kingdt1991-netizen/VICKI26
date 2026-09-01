@@ -2,38 +2,53 @@
 
 **by Black Knight Technology**
 
-**✓ Runtime Exercised** · **✓ Marketplace Field-Tested** · **✓ Payment-Gated Execution**
+**✓ Runtime Exercised** · **✓ Marketplace Field-Tested** · **✓ Direct x402 Payment Enabled**
 
 ## Verified Execution for Structured Jobs
 
-TaskForge is a Black Knight Technology developer-oriented execution layer for structured, machine-run jobs. It is designed around explicit job identity, approved scope, payment verification where applicable, execution boundaries, and evidence that the requested work was actually performed.
+TaskForge is a developer-oriented execution layer for structured, machine-run jobs. Standard catalog jobs are available through direct USDC payment on Base: no account and no manual approval are required after a valid x402 payment is verified.
 
-### Proof of operation
+**[Open the live machine-readable catalog](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway)**
 
-TaskForge has active worker, verifier, checkout, settlement-watching, marketplace, RapidAPI, and x402 surfaces. Its deployed runtime has processed substantial machine-service traffic and has been exercised against external marketplace-style workflows.
+### Direct paid services
 
-Marketplace exposure and runtime volume are not represented as customer revenue unless a paid settlement is independently verified.
+| Service | Price | x402 endpoint |
+|---|---:|---|
+| Endpoint Health Trust Launch | **$0.01 USDC** | [CATALOG_ENDPOINT_HEALTH_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CATALOG_ENDPOINT_HEALTH_AUDIT) |
+| Machine Service Health Report | **$0.10 USDC** | [MACHINE_SERVICE_HEALTH_REPORT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/MACHINE_SERVICE_HEALTH_REPORT) |
+| MCP Security Preflight | **$0.25 USDC** | [MCP_SECURITY_PERMISSION_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/MCP_SECURITY_PERMISSION_AUDIT) |
+| CI/CD Supply-Chain Preflight | **$0.25 USDC** | [CICD_SUPPLY_CHAIN_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CICD_SUPPLY_CHAIN_AUDIT) |
+| AI Agent Permission Preflight | **$0.25 USDC** | [AGENT_PERMISSION_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/AGENT_PERMISSION_AUDIT) |
+| x402 Commerce Integrity Preflight | **$0.25 USDC** | [X402_COMMERCE_INTEGRITY_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/X402_COMMERCE_INTEGRITY_AUDIT) |
+| Release Readiness Workflow Audit | **$0.50 USDC** | [RELEASE_READINESS_WORKFLOW_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/RELEASE_READINESS_WORKFLOW_AUDIT) |
+| Agent Stack Security Audit | **$0.75 USDC** | [AGENT_STACK_SECURITY_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/AGENT_STACK_SECURITY_AUDIT) |
 
-[See Black Knight Technology Proof of Operation](../PROOF_OF_OPERATION.md)
+### How payment works
+
+1. Send the documented JSON payload to the selected endpoint.
+2. An unpaid request receives an HTTP 402 challenge with Base-network USDC payment requirements.
+3. Pay the requested amount and retry with the x402 payment signature.
+4. TaskForge verifies settlement, executes the bounded job, verifies the result, and returns machine-readable completion evidence.
+5. Payment settles to Black Knight Technology's confirmed Coinbase USDC address on Base.
+
+Standard catalog services do **not** require owner approval. Approval remains required only for custom work, expanded scope, privileged access, unsafe requests, or jobs outside the published catalog.
 
 ### What it is built for
 
 - Structured agent jobs
 - Machine-readable service requests
-- Payment-verified execution flows
+- Payment-verified execution
 - Controlled fulfillment
-- Evidence-backed job completion
+- Evidence-backed completion
 
-### Developer value
+### Safety boundaries
 
-TaskForge separates request, authorization, execution, and completion evidence so automated work is easier to inspect, govern, and verify.
+TaskForge accepts only the published scope for each endpoint. It does not authorize outbound spending, paid bidding, purchases, custody, private-network access, arbitrary code execution, or unsupported custom work.
 
-### Product position
+### Proof of operation
 
-TaskForge is the verified-execution layer in the Black Knight Technology developer catalog. It is intended for developers, agent operators, and machine-service workflows that need stronger proof around what was requested, what was authorized, what executed, and what completed.
+TaskForge has active worker, verifier, settlement-watching, marketplace, RapidAPI, and x402 surfaces. Its runtime has processed substantial machine-service traffic and has been exercised against external marketplace-style workflows.
 
-### Availability
+Marketplace exposure and runtime volume are not represented as customer revenue unless a paid settlement is independently verified.
 
-TaskForge is available through approved Black Knight Technology job workflows. Individual service offers are exposed only when their scope, payment verification, and fulfillment path are production-ready.
-
-Private orchestration, credentials, internal repositories, and proprietary execution logic remain outside this public storefront.
+[See Black Knight Technology Proof of Operation](../PROOF_OF_OPERATION.md)
