@@ -1,10 +1,12 @@
 # A.C.E. — Autonomous Commerce Engine
 
+**by Black Knight Technology**
+
 ## Premium / Enterprise
 
-**A.C.E. is a Black Knight Technology product.** It is Black Knight Technology's premium commercial assurance and autonomous commerce infrastructure platform.
+A.C.E. is Black Knight Technology's premium commercial assurance and governed autonomous-commerce infrastructure platform.
 
-A.C.E. is positioned for advanced operators that need more than a single-purpose developer utility: stronger decision control, commercial-readiness checks, machine-executable workflows, evidence-backed release decisions, and governed automation across complex product or service operations.
+It is positioned for advanced operators that need more than a single-purpose developer utility: stronger decision control, commercial-readiness checks, machine-executable workflows, evidence-backed release decisions, and governed automation across complex product or service operations.
 
 ### Premium positioning
 
@@ -21,12 +23,12 @@ A.C.E. is intentionally not presented as a low-cost utility or casual public too
 
 ### Product ownership and licensing
 
-A.C.E. is marketed and licensed under the **Black Knight Technology** brand. Public access to this storefront does not grant source-code access, runtime authority, implementation rights, or a software license.
+A.C.E. is a proprietary Black Knight Technology product. Public access to this storefront does not grant source-code access, runtime authority, implementation rights, or a software license.
 
-Formal agreements, invoices, banking records, and other legal documents may identify the contracting party as **Black Knight Transportation LLC d/b/a Black Knight Technology** where required. Customer-facing product identity remains **Black Knight Technology**.
+Formal agreements, invoices, banking records, and other legal documents may identify the contracting party as **Black Knight Transportation LLC d/b/a Black Knight Technology** where required. The customer-facing product identity remains **A.C.E. by Black Knight Technology**.
 
 ### Availability
 
 A.C.E. enterprise and licensing opportunities are handled separately from lower-cost public developer products. Public storefront material provides product positioning without exposing proprietary implementation, private repositories, or Crown IP.
 
-For serious enterprise or licensing interest, use Black Knight Technology's approved business contact path rather than attempting to access implementation repositories.
+Enterprise access is provided only through an approved evaluation, licensing, or OEM engagement.
