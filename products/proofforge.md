@@ -1,8 +1,10 @@
 # ProofForge
 
+**by Black Knight Technology**
+
 ## Evidence Assurance for AI and Software Decisions
 
-ProofForge is a developer-facing evidence and assurance product family designed to help teams inspect claims, evidence, and machine-generated decisions with a clearer record of what supports the result.
+ProofForge is a Black Knight Technology evidence and assurance product family designed to help teams inspect claims, evidence, and machine-generated decisions with a clearer record of what supports the result.
 
 ### Public product family
 
