@@ -13,6 +13,8 @@ This public repository is the curated storefront for finished **Black Knight Tec
 ### RightsGate
 **by Black Knight Technology**
 
+**✓ Live Checkout** · **✓ Production Intake Deployed** · **✓ Field Outreach Tested**
+
 <p>
   <a href="https://v-i-c-k-i-infoblackknighttrans-2900s-projects.vercel.app/rightsgate">
     <img src="assets/rightsgate-card.svg" alt="RightsGate by Black Knight Technology — view plans" width="100%" />
@@ -28,6 +30,8 @@ AI software readiness audits for founders and teams preparing to commercialize A
 
 ### ProofForge
 **by Black Knight Technology**
+
+**✓ Live Checkout** · **✓ Paid Intake Deployed** · **✓ Fulfillment Worker Deployed**
 
 <p>
   <a href="products/proofforge.md">
@@ -45,6 +49,8 @@ Evidence-focused assurance for claims, reports, evidence packages, and agent dec
 ### TaskForge
 **by Black Knight Technology**
 
+**✓ Runtime Exercised** · **✓ Marketplace Field-Tested** · **✓ Payment-Gated Execution**
+
 <p>
   <a href="products/taskforge.md">
     <img src="assets/taskforge-card.svg" alt="TaskForge by Black Knight Technology — view product" width="100%" />
@@ -60,6 +66,8 @@ Structured, machine-readable job execution with explicit scope, verification, an
 ### A.C.E. — Autonomous Commerce Engine
 **by Black Knight Technology**
 
+**✓ Production Tested** · **✓ Fail-Closed Verified** · **✓ Enterprise Licensing Ready**
+
 <p>
   <a href="products/ace.md">
     <img src="assets/ace-card.svg" alt="A.C.E. Autonomous Commerce Engine by Black Knight Technology — enterprise product" width="100%" />
@@ -69,6 +77,12 @@ Structured, machine-readable job execution with explicit scope, verification, an
 **Premium / enterprise product.** Advanced assurance, commercial control, and governed autonomous machine-workflow infrastructure for sophisticated operators and integrations.
 
 [View A.C.E.](products/ace.md) • [Request Enterprise Licensing](https://ace-dusky-iota.vercel.app/?source=github)
+
+## Product proof
+
+Black Knight Technology uses evidence-backed proof labels rather than unsupported marketing claims. Product badges reflect deployed infrastructure, repeatable system tests, fail-closed controls, marketplace activity, or verified workflow execution that has actually been observed.
+
+[See Proof of Operation](PROOF_OF_OPERATION.md)
 
 ## Product map
 
@@ -86,6 +100,7 @@ Structured, machine-readable job execution with explicit scope, verification, an
 - Clear product boundaries and customer-facing workflows
 - Payment-connected fulfillment paths where enabled
 - Developer-friendly product architecture
+- Evidence-backed proof labels tied to observed system behavior
 - Public storefront intentionally separated from private implementation repositories
 
 ## Storefront security model
