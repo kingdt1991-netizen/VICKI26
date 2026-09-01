@@ -13,33 +13,39 @@ This public repository is the curated storefront for finished Black Knight Techn
 ### RightsGate
 
 <p>
-  <img src="assets/rightsgate-card.svg" alt="RightsGate" width="100%" />
+  <a href="https://v-i-c-k-i-infoblackknighttrans-2900s-projects.vercel.app/rightsgate">
+    <img src="assets/rightsgate-card.svg" alt="RightsGate — view plans" width="100%" />
+  </a>
 </p>
 
 AI software readiness audits for founders and teams preparing to commercialize AI-built software.
 
 **Public plans:** $249 Core Audit • $1,499 Full Readiness Audit  
-[View RightsGate](products/rightsgate.md) • [View plans & buy](https://v-i-c-k-i-infoblackknighttrans-2900s-projects.vercel.app/rightsgate)
+[Product details](products/rightsgate.md) • [View plans & buy](https://v-i-c-k-i-infoblackknighttrans-2900s-projects.vercel.app/rightsgate)
 
 ---
 
 ### ProofForge
 
 <p>
-  <img src="assets/proofforge-card.svg" alt="ProofForge" width="100%" />
+  <a href="products/proofforge.md">
+    <img src="assets/proofforge-card.svg" alt="ProofForge — view products" width="100%" />
+  </a>
 </p>
 
 Evidence-focused assurance for claims, reports, evidence packages, and agent decisions.
 
 **Live products:** $99 Evidence Claim Check • $499 Evidence Assurance Report • $1,499 Agent Decision Audit  
-[View ProofForge](products/proofforge.md)
+[View ProofForge products & checkout links](products/proofforge.md)
 
 ---
 
 ### TaskForge
 
 <p>
-  <img src="assets/taskforge-card.svg" alt="TaskForge" width="100%" />
+  <a href="products/taskforge.md">
+    <img src="assets/taskforge-card.svg" alt="TaskForge — view product" width="100%" />
+  </a>
 </p>
 
 Structured, machine-readable job execution with explicit scope, verification, and evidence-backed completion.
@@ -51,7 +57,9 @@ Structured, machine-readable job execution with explicit scope, verification, an
 ### ACE — Autonomous Commerce Engine
 
 <p>
-  <img src="assets/ace-card.svg" alt="ACE Autonomous Commerce Engine" width="100%" />
+  <a href="products/ace.md">
+    <img src="assets/ace-card.svg" alt="ACE Autonomous Commerce Engine — enterprise product" width="100%" />
+  </a>
 </p>
 
 **Premium / enterprise product.** Advanced assurance, commercial control, and autonomous machine-workflow infrastructure for sophisticated operators and integrations.
