@@ -10,12 +10,62 @@ This public repository is the curated storefront for finished Black Knight Techn
 
 ## Featured developer products
 
-| Product | What it does | Positioning |
-|---|---|---|
-| [**RightsGate**](products/rightsgate.md) | Reviews AI-generated code provenance, OSS/dependency exposure, model/API usage, commercial-use signals, and software-readiness evidence. | Commercial readiness |
-| [**ProofForge**](products/proofforge.md) | Produces evidence-focused assurance outputs for claims, reports, and agent decisions. | Evidence & assurance |
-| [**TaskForge**](products/taskforge.md) | Structured task execution and payment-verified job workflows for machine-run services. | Verified execution |
-| [**ACE — Autonomous Commerce Engine**](products/ace.md) | Premium assurance and autonomous commercial infrastructure for advanced operators. | Premium / enterprise |
+### RightsGate
+
+<p>
+  <img src="assets/rightsgate-card.svg" alt="RightsGate" width="100%" />
+</p>
+
+AI software readiness audits for founders and teams preparing to commercialize AI-built software.
+
+**Public plans:** $249 Core Audit • $1,499 Full Readiness Audit  
+[View RightsGate](products/rightsgate.md) • [View plans & buy](https://v-i-c-k-i-infoblackknighttrans-2900s-projects.vercel.app/rightsgate)
+
+---
+
+### ProofForge
+
+<p>
+  <img src="assets/proofforge-card.svg" alt="ProofForge" width="100%" />
+</p>
+
+Evidence-focused assurance for claims, reports, evidence packages, and agent decisions.
+
+**Live products:** $99 Evidence Claim Check • $499 Evidence Assurance Report • $1,499 Agent Decision Audit  
+[View ProofForge](products/proofforge.md)
+
+---
+
+### TaskForge
+
+<p>
+  <img src="assets/taskforge-card.svg" alt="TaskForge" width="100%" />
+</p>
+
+Structured, machine-readable job execution with explicit scope, verification, and evidence-backed completion.
+
+[View TaskForge](products/taskforge.md)
+
+---
+
+### ACE — Autonomous Commerce Engine
+
+<p>
+  <img src="assets/ace-card.svg" alt="ACE Autonomous Commerce Engine" width="100%" />
+</p>
+
+**Premium / enterprise product.** Advanced assurance, commercial control, and autonomous machine-workflow infrastructure for sophisticated operators and integrations.
+
+[View ACE](products/ace.md)
+
+## Product map
+
+| Product | Primary buyer | Best use case | Availability |
+|---|---|---|---|
+| **RightsGate** | Founders, SaaS teams, AI developers | Commercial-readiness and software-rights review | Public purchase |
+| **ProofForge** | AI teams, operators, auditors | Evidence and decision assurance | Public purchase |
+| **TaskForge** | Developers, agents, workflow operators | Verified structured execution | Approved workflows |
+| **ACE** | Enterprise and advanced operators | Premium assurance + autonomous commerce infrastructure | Enterprise engagement |
 
 ## Why Black Knight Technology
 
