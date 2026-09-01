@@ -20,8 +20,7 @@ A.C.E. has recurring golden-path verification across sellable service paths, inc
 
 A.C.E. enterprise licensing begins through the controlled A.C.E. product portal.
 
-**[Request Enterprise Licensing](https://ace-dusky-iota.vercel.app/?source=github)**  
-**[Start Licensing Process](https://ace-dusky-iota.vercel.app/?source=github)**
+**[Request Enterprise Licensing](https://ace-dusky-iota.vercel.app/?source=github)**
 
 The portal is the approved public entry point for qualification and licensing intake. Qualified engagements can then advance into the RightsForge-controlled agreement, signature, payment-verification, provisioning, and evidence workflow.
 
