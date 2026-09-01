@@ -23,8 +23,8 @@ This public repository is the curated storefront for finished **Black Knight Tec
 
 AI software readiness audits for founders and teams preparing to commercialize AI-built software.
 
-**Public plans:** $249 Core Audit • $1,499 Full Readiness Audit  
-[Product details](products/rightsgate.md) • [View plans & buy](https://v-i-c-k-i-infoblackknighttrans-2900s-projects.vercel.app/rightsgate)
+**Public plans:** $249 Core • $799 Commercial Readiness • $1,499 Full Readiness  
+[Compare plans and purchase](products/rightsgate.md) • [Core checkout](https://book.stripe.com/7sY28kf627Bffh80Dyco001) • [Commercial checkout](https://book.stripe.com/eVq7sEbTQbRv5Gy0Dyco00r) • [Full checkout](https://book.stripe.com/7sYaEQ8HEg7L2umae8co00q)
 
 ---
 
@@ -59,7 +59,8 @@ Evidence-focused assurance for claims, reports, evidence packages, and agent dec
 
 Structured, machine-readable job execution with explicit scope, verification, and evidence-backed completion.
 
-[View TaskForge](products/taskforge.md)
+**Direct x402 catalog:** $0.01–$0.75 USDC per verified execution • No account or manual approval for standard catalog jobs  
+[View services, prices, and payment endpoints](products/taskforge.md)
 
 ---
 
@@ -90,7 +91,7 @@ Black Knight Technology uses evidence-backed proof labels rather than unsupporte
 |---|---|---|---|
 | **RightsGate** | Founders, SaaS teams, AI developers | Commercial-readiness and software-rights review | Public purchase |
 | **ProofForge** | AI teams, operators, auditors | Evidence and decision assurance | Public purchase |
-| **TaskForge** | Developers, agents, workflow operators | Verified structured execution | Approved workflows |
+| **TaskForge** | Developers, agents, workflow operators | Verified structured execution | Direct x402 purchase |
 | **A.C.E.** | Enterprise and advanced operators | Premium assurance + governed autonomous commerce infrastructure | Enterprise engagement |
 
 ## Why Black Knight Technology
@@ -98,7 +99,7 @@ Black Knight Technology uses evidence-backed proof labels rather than unsupporte
 - One technology brand across the product portfolio
 - Built for commercial use, not demos only
 - Clear product boundaries and customer-facing workflows
-- Payment-connected fulfillment paths where enabled
+- Direct payment-to-fulfillment paths for standard catalog products
 - Developer-friendly product architecture
 - Evidence-backed proof labels tied to observed system behavior
 - Public storefront intentionally separated from private implementation repositories
