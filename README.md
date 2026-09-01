@@ -68,7 +68,7 @@ Structured, machine-readable job execution with explicit scope, verification, an
 
 **Premium / enterprise product.** Advanced assurance, commercial control, and governed autonomous machine-workflow infrastructure for sophisticated operators and integrations.
 
-[View A.C.E.](products/ace.md) • [Request Enterprise Licensing](https://ace-dusky-iota.vercel.app/)
+[View A.C.E.](products/ace.md) • [Request Enterprise Licensing](https://ace-dusky-iota.vercel.app/?source=github)
 
 ## Product map
 
