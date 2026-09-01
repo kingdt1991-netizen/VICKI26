@@ -1,8 +1,10 @@
 # RightsGate
 
+**by Black Knight Technology**
+
 ## AI Software Readiness Audit
 
-RightsGate helps software founders and teams understand what they own, what they use, and what may need attention before launch, fundraising, enterprise sales, licensing, or diligence.
+RightsGate is a Black Knight Technology product that helps software founders and teams understand what they own, what they use, and what may need attention before launch, fundraising, enterprise sales, licensing, or diligence.
 
 ### What it reviews
 
