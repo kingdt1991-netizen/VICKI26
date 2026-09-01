@@ -6,15 +6,16 @@
 
 **Developer-first products for software readiness, evidence assurance, verified execution, and premium AI infrastructure.**
 
-This public repository is the curated storefront for finished Black Knight Technology products. It contains public product information only. It does **not** contain private source code, credentials, deployment secrets, database access, or links that grant access to private repositories.
+This public repository is the curated storefront for finished **Black Knight Technology** products. It contains public product information only. It does **not** contain private source code, credentials, deployment secrets, database access, or links that grant access to private repositories.
 
 ## Featured developer products
 
 ### RightsGate
+**by Black Knight Technology**
 
 <p>
   <a href="https://v-i-c-k-i-infoblackknighttrans-2900s-projects.vercel.app/rightsgate">
-    <img src="assets/rightsgate-card.svg" alt="RightsGate — view plans" width="100%" />
+    <img src="assets/rightsgate-card.svg" alt="RightsGate by Black Knight Technology — view plans" width="100%" />
   </a>
 </p>
 
@@ -26,10 +27,11 @@ AI software readiness audits for founders and teams preparing to commercialize A
 ---
 
 ### ProofForge
+**by Black Knight Technology**
 
 <p>
   <a href="products/proofforge.md">
-    <img src="assets/proofforge-card.svg" alt="ProofForge — view products" width="100%" />
+    <img src="assets/proofforge-card.svg" alt="ProofForge by Black Knight Technology — view products" width="100%" />
   </a>
 </p>
 
@@ -41,10 +43,11 @@ Evidence-focused assurance for claims, reports, evidence packages, and agent dec
 ---
 
 ### TaskForge
+**by Black Knight Technology**
 
 <p>
   <a href="products/taskforge.md">
-    <img src="assets/taskforge-card.svg" alt="TaskForge — view product" width="100%" />
+    <img src="assets/taskforge-card.svg" alt="TaskForge by Black Knight Technology — view product" width="100%" />
   </a>
 </p>
 
@@ -54,17 +57,18 @@ Structured, machine-readable job execution with explicit scope, verification, an
 
 ---
 
-### ACE — Autonomous Commerce Engine
+### A.C.E. — Autonomous Commerce Engine
+**by Black Knight Technology**
 
 <p>
   <a href="products/ace.md">
-    <img src="assets/ace-card.svg" alt="ACE Autonomous Commerce Engine — enterprise product" width="100%" />
+    <img src="assets/ace-card.svg" alt="A.C.E. Autonomous Commerce Engine by Black Knight Technology — enterprise product" width="100%" />
   </a>
 </p>
 
-**Premium / enterprise product.** Advanced assurance, commercial control, and autonomous machine-workflow infrastructure for sophisticated operators and integrations.
+**Premium / enterprise product.** Advanced assurance, commercial control, and governed autonomous machine-workflow infrastructure for sophisticated operators and integrations.
 
-[View ACE](products/ace.md)
+[View A.C.E.](products/ace.md)
 
 ## Product map
 
@@ -73,10 +77,11 @@ Structured, machine-readable job execution with explicit scope, verification, an
 | **RightsGate** | Founders, SaaS teams, AI developers | Commercial-readiness and software-rights review | Public purchase |
 | **ProofForge** | AI teams, operators, auditors | Evidence and decision assurance | Public purchase |
 | **TaskForge** | Developers, agents, workflow operators | Verified structured execution | Approved workflows |
-| **ACE** | Enterprise and advanced operators | Premium assurance + autonomous commerce infrastructure | Enterprise engagement |
+| **A.C.E.** | Enterprise and advanced operators | Premium assurance + governed autonomous commerce infrastructure | Enterprise engagement |
 
 ## Why Black Knight Technology
 
+- One technology brand across the product portfolio
 - Built for commercial use, not demos only
 - Clear product boundaries and customer-facing workflows
 - Payment-connected fulfillment paths where enabled
