@@ -14,12 +14,14 @@ TaskForge is a developer-oriented execution layer for structured, machine-run jo
 
 ### Developer value
 
-TaskForge separates the request, authorization, execution, and completion record so automated work can be easier to inspect and govern.
+TaskForge separates request, authorization, execution, and completion evidence so automated work is easier to inspect, govern, and verify.
 
-### Public positioning
+### Product position
 
-TaskForge is a productized execution capability. Internal orchestration, private repositories, credentials, and proprietary implementation remain outside this public storefront.
+TaskForge is the verified-execution layer in the Black Knight Technology developer catalog. It is intended for developers, agent operators, and machine-service workflows that need stronger proof around what was requested, what was authorized, what executed, and what completed.
 
 ### Availability
 
-Approved TaskForge job workflows are available through Black Knight Technology's customer-facing service flows. Public storefront packaging will continue to be consolidated here as individual offerings are promoted.
+TaskForge is available through approved Black Knight Technology job workflows. Individual service offers are exposed only when their scope, payment verification, and fulfillment path are production-ready.
+
+Private orchestration, credentials, internal repositories, and proprietary execution logic remain outside this public storefront.
