@@ -2,11 +2,19 @@
 
 **by Black Knight Technology**
 
+**✓ Production Tested** · **✓ Fail-Closed Verified** · **✓ Enterprise Licensing Ready**
+
 ## Premium / Enterprise
 
 A.C.E. is Black Knight Technology's premium commercial assurance and governed autonomous-commerce infrastructure platform.
 
 It is positioned for advanced operators that need more than a single-purpose developer utility: stronger decision control, commercial-readiness checks, machine-executable workflows, evidence-backed release decisions, and governed automation across complex product or service operations.
+
+### Proof of operation
+
+A.C.E. has recurring golden-path verification across sellable service paths, including rights decisions, source-use policy evaluation, evidence provenance, identifier normalization, and release certification. The enterprise licensing path has also been exercised through controlled intake, approved agreement selection, signing controls, payment/provisioning gates, and unauthorized-access rejection.
+
+[See Black Knight Technology Proof of Operation](../PROOF_OF_OPERATION.md)
 
 ### Enterprise licensing
 
