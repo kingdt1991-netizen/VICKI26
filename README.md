@@ -26,7 +26,7 @@
 |---|---|---:|---|
 | Prepare AI-built software for launch, customers, licensing, or diligence | **RightsGate** | $249–$1,499 | [Compare plans](products/rightsgate.md) |
 | Check claims, evidence packages, or an agent decision trail | **ProofForge** | $99–$1,499 | [View products](products/proofforge.md) |
-| Run a bounded machine-readable audit or preflight | **TaskForge** | $0.01–$0.75 USDC | [Open x402 catalog](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway) |
+| Run a bounded machine-readable audit or preflight | **TaskForge Agent Assurance** | $0.01–$0.75 USDC | [Open x402 catalog](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway?source=github-storefront&campaign=taskforge-trust-launch) |
 | License governed autonomous-commerce infrastructure | **A.C.E.** | Enterprise | [Request licensing](https://ace-dusky-iota.vercel.app/?source=github) |
 
 **Payment rails:** Stripe for human-purchased reports and audits • USDC on Base for direct x402 execution  
@@ -72,21 +72,21 @@ Evidence-focused assurance for claims, reports, evidence packages, and agent dec
 
 ---
 
-### TaskForge
+### TaskForge Agent Assurance
 **by Black Knight Technology**
 
-**✓ Runtime Exercised** · **✓ Marketplace Field-Tested** · **✓ Payment-Gated Execution**
+**✓ First Verified x402 Sale** · **✓ Customer Delivery Verified** · **✓ Payment-Gated Execution**
 
 <p>
   <a href="products/taskforge.md">
-    <img src="assets/taskforge-card.svg" alt="TaskForge by Black Knight Technology — view product" width="100%" />
+    <img src="assets/taskforge-card.svg" alt="TaskForge Agent Assurance by Black Knight Technology — view services from $0.01" width="100%" />
   </a>
 </p>
 
-Structured, machine-readable job execution with explicit scope, verification, and evidence-backed completion.
+**Audit up to 100 public API endpoints for $0.01 USDC.** No account, subscription, or manual approval—pay on Base and receive a verified machine-readable report in the same request.
 
 **Direct x402 catalog:** $0.01–$0.75 USDC per verified execution • No account or manual approval for standard catalog jobs  
-[View services, prices, and payment endpoints](products/taskforge.md)
+[**Use TaskForge Agent Assurance — services from $0.01**](products/taskforge.md)
 
 ---
 
@@ -128,7 +128,7 @@ Black Knight Technology uses evidence-backed proof labels rather than unsupporte
 |---|---|---|---|
 | **RightsGate** | Founders, SaaS teams, AI developers | Commercial-readiness and software-rights review | Public purchase |
 | **ProofForge** | AI teams, operators, auditors | Evidence and decision assurance | Public purchase |
-| **TaskForge** | Developers, agents, workflow operators | Verified structured execution | Direct x402 purchase |
+| **TaskForge Agent Assurance** | Developers, agents, workflow operators | Verified structured execution | Direct x402 purchase |
 | **A.C.E.** | Enterprise and advanced operators | Premium assurance and governed autonomous commerce | Enterprise engagement |
 
 ## Why Black Knight Technology
