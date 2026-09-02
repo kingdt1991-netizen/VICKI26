@@ -5,7 +5,7 @@
 **Network:** Base mainnet (`eip155:8453`)  
 **Asset:** Native USDC  
 **Settlement address:** `0x7fB588901cef1400F114b62FC11e25A83B24f778`  
-**Catalog:** https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway
+**PayAPI submitted endpoint:** https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway
 
 ## Provider summary
 
@@ -24,7 +24,7 @@ TaskForge provides small, bounded, machine-readable assurance jobs for AI agents
 | Release Readiness Workflow Audit | $0.50 | Identify blocking security signals across agent configuration, MCP permissions, and CI/CD workflows. |
 | Agent Stack Security Audit | $0.75 | Audit an agent stack across MCP configuration, tool permissions, workflow security, and side-effect exposure. |
 
-Every offer is a `POST` endpoint under the catalog URL using the capability key shown in [the TaskForge product page](../products/taskforge.md).
+The submitted root is an alias of the $0.01 `CATALOG_ENDPOINT_HEALTH_AUDIT` offer and returns its decodable HTTP 402 challenge to unpaid requests. Every offer is also available as a `POST` endpoint under the gateway URL using the capability key shown in [the TaskForge product page](../products/taskforge.md).
 
 ## Discovery contract
 
