@@ -1,27 +1,48 @@
-# TaskForge
+# TaskForge Agent Assurance
 
 **by Black Knight Technology**
 
-**✓ Runtime Exercised** · **✓ Marketplace Field-Tested** · **✓ Direct x402 Payment Enabled**
+**✓ First Verified x402 Sale** · **✓ Customer Delivery Verified** · **✓ Direct x402 Payment Enabled**
 
 ## Verified Execution for Structured Jobs
 
-TaskForge is a developer-oriented execution layer for structured, machine-run jobs. Standard catalog jobs are available through direct USDC payment on Base: no account and no manual approval are required after a valid x402 payment is verified.
+TaskForge Agent Assurance is a developer-oriented execution layer for structured, machine-run assurance jobs. **Start by auditing up to 100 public API endpoints for $0.01 USDC.** No account, subscription, or manual approval is required: pay on Base and receive the verified machine-readable report in the same request.
 
-**[Open the live machine-readable catalog](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway)**
+**[Use TaskForge Agent Assurance — services from $0.01](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway?source=github-product-page&campaign=taskforge-trust-launch)**
+
+[OpenAPI specification](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/openapi.json?source=github-product-page&campaign=taskforge-trust-launch)
+
+### Fastest way to try it
+
+An unpaid request safely returns the machine-readable HTTP 402 payment requirements:
+
+```bash
+curl -i -X POST \
+  "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CATALOG_ENDPOINT_HEALTH_AUDIT?source=github-product-page&campaign=taskforge-trust-launch" \
+  -H "content-type: application/json" \
+  -d '{"catalog_entries":[{"id":"my-api","url":"https://example.com"}]}'
+```
+
+After paying the returned requirement, retry the same request with the x402 payment signature. TaskForge returns the audit and verification evidence directly in the successful response.
+
+### Verified first sale
+
+On September 2, 2026, this $0.01 service completed a real Base USDC payment, audited four submitted endpoints, returned the report to the buyer, passed verification at 100, and settled successfully.
+
+[View the verified Base transaction](https://basescan.org/tx/0x6fb48f3ee8ee57b5a162ebdbf515061b9defc30a58106555d500553eaba0e9f3)
 
 ### Direct paid services
 
 | Service | Price | x402 endpoint |
 |---|---:|---|
-| Endpoint Health Trust Launch | **$0.01 USDC** | [CATALOG_ENDPOINT_HEALTH_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CATALOG_ENDPOINT_HEALTH_AUDIT) |
-| Machine Service Health Report | **$0.10 USDC** | [MACHINE_SERVICE_HEALTH_REPORT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/MACHINE_SERVICE_HEALTH_REPORT) |
-| MCP Security Preflight | **$0.25 USDC** | [MCP_SECURITY_PERMISSION_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/MCP_SECURITY_PERMISSION_AUDIT) |
-| CI/CD Supply-Chain Preflight | **$0.25 USDC** | [CICD_SUPPLY_CHAIN_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CICD_SUPPLY_CHAIN_AUDIT) |
-| AI Agent Permission Preflight | **$0.25 USDC** | [AGENT_PERMISSION_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/AGENT_PERMISSION_AUDIT) |
-| x402 Commerce Integrity Preflight | **$0.25 USDC** | [X402_COMMERCE_INTEGRITY_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/X402_COMMERCE_INTEGRITY_AUDIT) |
-| Release Readiness Workflow Audit | **$0.50 USDC** | [RELEASE_READINESS_WORKFLOW_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/RELEASE_READINESS_WORKFLOW_AUDIT) |
-| Agent Stack Security Audit | **$0.75 USDC** | [AGENT_STACK_SECURITY_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/AGENT_STACK_SECURITY_AUDIT) |
+| Endpoint Health Trust Launch | **$0.01 USDC** | [CATALOG_ENDPOINT_HEALTH_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CATALOG_ENDPOINT_HEALTH_AUDIT?source=github-product-page&campaign=taskforge-catalog) |
+| Machine Service Health Report | **$0.10 USDC** | [MACHINE_SERVICE_HEALTH_REPORT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/MACHINE_SERVICE_HEALTH_REPORT?source=github-product-page&campaign=taskforge-catalog) |
+| MCP Security Preflight | **$0.25 USDC** | [MCP_SECURITY_PERMISSION_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/MCP_SECURITY_PERMISSION_AUDIT?source=github-product-page&campaign=taskforge-catalog) |
+| CI/CD Supply-Chain Preflight | **$0.25 USDC** | [CICD_SUPPLY_CHAIN_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CICD_SUPPLY_CHAIN_AUDIT?source=github-product-page&campaign=taskforge-catalog) |
+| AI Agent Permission Preflight | **$0.25 USDC** | [AGENT_PERMISSION_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/AGENT_PERMISSION_AUDIT?source=github-product-page&campaign=taskforge-catalog) |
+| x402 Commerce Integrity Preflight | **$0.25 USDC** | [X402_COMMERCE_INTEGRITY_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/X402_COMMERCE_INTEGRITY_AUDIT?source=github-product-page&campaign=taskforge-catalog) |
+| Release Readiness Workflow Audit | **$0.50 USDC** | [RELEASE_READINESS_WORKFLOW_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/RELEASE_READINESS_WORKFLOW_AUDIT?source=github-product-page&campaign=taskforge-catalog) |
+| Agent Stack Security Audit | **$0.75 USDC** | [AGENT_STACK_SECURITY_AUDIT](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/AGENT_STACK_SECURITY_AUDIT?source=github-product-page&campaign=taskforge-catalog) |
 
 ### How payment works
 
@@ -47,7 +68,7 @@ TaskForge accepts only the published scope for each endpoint. It does not author
 
 ### Proof of operation
 
-TaskForge has active worker, verifier, settlement-watching, marketplace, RapidAPI, and x402 surfaces. Its runtime has processed substantial machine-service traffic and has been exercised against external marketplace-style workflows.
+TaskForge has active worker, verifier, settlement-watching, marketplace, RapidAPI, and x402 surfaces. Its first verified customer payment and synchronous delivery completed on September 2, 2026. The runtime also continues to process machine-service and marketplace traffic.
 
 Marketplace exposure and runtime volume are not represented as customer revenue unless a paid settlement is independently verified.
 
