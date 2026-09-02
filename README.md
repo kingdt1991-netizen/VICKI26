@@ -26,7 +26,7 @@
 |---|---|---:|---|
 | Prepare AI-built software for launch, customers, licensing, or diligence | **RightsGate** | $249–$1,499 | [Compare plans](products/rightsgate.md) |
 | Check claims, evidence packages, or an agent decision trail | **ProofForge** | $99–$1,499 | [View products](products/proofforge.md) |
-| Run a bounded machine-readable audit or preflight | **TaskForge** | $0.01–$0.75 USDC | [Open x402 catalog](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway) |
+| Run a bounded machine-readable audit or preflight | **TaskForge** | $0.01–$0.75 USDC | [Open $0.01 x402 endpoint](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway) |
 | License governed autonomous-commerce infrastructure | **A.C.E.** | Enterprise | [Request licensing](https://ace-dusky-iota.vercel.app/?source=github) |
 
 **Payment rails:** Stripe for human-purchased reports and audits • USDC on Base for direct x402 execution  

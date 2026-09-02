@@ -1,14 +1,18 @@
 # TaskForge
 
-**by Black Knight Technology**
+**by Black Knight Technologies**
 
-**✓ Runtime Exercised** · **✓ Marketplace Field-Tested** · **✓ Direct x402 Payment Enabled**
+**✓ Runtime Exercised** · **✓ x402 v2 + Bazaar Metadata** · **✓ Direct Base USDC Payment Enabled**
 
 ## Verified Execution for Structured Jobs
 
 TaskForge is a developer-oriented execution layer for structured, machine-run jobs. Standard catalog jobs are available through direct USDC payment on Base: no account and no manual approval are required after a valid x402 payment is verified.
 
-**[Open the live machine-readable catalog](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway)**
+**[Open the PayAPI-submitted $0.01 x402 endpoint](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway)**
+
+The submitted root aliases `CATALOG_ENDPOINT_HEALTH_AUDIT` and returns its HTTP 402 challenge to unpaid requests. All eight capability routes advertise canonical HTTPS resource URLs, POST/JSON schemas, structured output examples, Base USDC payment requirements, and Bazaar discovery metadata.
+
+[View the marketplace listing pack](../marketplaces/taskforge-x402-listing-pack.md)
 
 ### Direct paid services
 
