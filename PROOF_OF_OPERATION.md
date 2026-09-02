@@ -15,6 +15,8 @@ Black Knight Technology uses evidence-backed proof labels to distinguish deploye
 - **Runtime Exercised** — the deployed runtime has processed substantial test or market traffic.
 - **Marketplace Field-Tested** — the product has been exposed to live marketplace or external-workflow conditions rather than only isolated local tests.
 - **Payment-Gated Execution** — execution is designed to remain behind payment or settlement verification where payment is required.
+- **Customer Payment Verified** — an externally settled customer payment has been matched to its on-chain transaction evidence.
+- **Customer Delivery Verified** — a paid request completed and the purchased result was returned through the documented delivery path.
 - **Enterprise Licensing Ready** — the controlled enterprise licensing path, agreement selection, signing controls, and release gates have passed production acceptance.
 - **Field Outreach Tested** — outreach has actually been submitted through a live communications provider; this does not imply delivery, reply, or conversion unless separately verified.
 
@@ -44,11 +46,13 @@ These labels describe production readiness and deployed fulfillment infrastructu
 
 ## TaskForge
 
-**Proof labels:** Runtime Exercised · Marketplace Field-Tested · Payment-Gated Execution
+**Proof labels:** Runtime Exercised · Marketplace Field-Tested · Payment-Gated Execution · Customer Payment Verified · Customer Delivery Verified
 
-TaskForge has active worker, verifier, checkout, settlement-watching, marketplace, RapidAPI, and x402 surfaces. Its runtime has processed substantial machine-service traffic and has been exercised against external marketplace-style workflows.
+TaskForge has active worker, verifier, checkout, settlement-watching, marketplace, RapidAPI, and x402 surfaces. Its runtime has processed machine-service traffic and has been exercised against external marketplace-style workflows.
 
-Marketplace exposure and runtime volume are not described as customer revenue unless a paid settlement is independently verified.
+On September 2, 2026, the Endpoint Health Trust Launch completed a verified $0.01 USDC customer payment on Base, executed the purchased four-endpoint audit, passed result verification at 100, returned the machine-readable report in the successful paid response, and recorded a verified settlement.
+
+[View the independently recorded Base transaction](https://basescan.org/tx/0x6fb48f3ee8ee57b5a162ebdbf515061b9defc30a58106555d500553eaba0e9f3)
 
 ## Black Knight Freight Revenue Audit
 
