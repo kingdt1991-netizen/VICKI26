@@ -10,7 +10,11 @@ TaskForge is a developer-oriented execution layer for structured, machine-run jo
 
 **[Open the PayAPI-submitted $0.01 x402 endpoint](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway)**
 
-The live catalog and all eight paid routes advertise canonical HTTPS resource URLs, POST/JSON schemas, structured output examples, Base USDC payment requirements, and Bazaar discovery metadata.\n\n[View the marketplace listing pack](../marketplaces/taskforge-x402-listing-pack.md)\n\n### Direct paid services
+The submitted root aliases `CATALOG_ENDPOINT_HEALTH_AUDIT` and returns its HTTP 402 challenge to unpaid requests. All eight capability routes advertise canonical HTTPS resource URLs, POST/JSON schemas, structured output examples, Base USDC payment requirements, and Bazaar discovery metadata.
+
+[View the marketplace listing pack](../marketplaces/taskforge-x402-listing-pack.md)
+
+### Direct paid services
 
 | Service | Price | x402 endpoint |
 |---|---:|---|
