@@ -1,8 +1,8 @@
 # TaskForge
 
-**by Black Knight Technology**
+**by Black Knight Technologies**
 
-**✓ Runtime Exercised** · **✓ Marketplace Field-Tested** · **✓ Direct x402 Payment Enabled**
+**✓ Runtime Exercised** · **✓ x402 v2 + Bazaar Metadata** · **✓ Direct Base USDC Payment Enabled**
 
 ## Verified Execution for Structured Jobs
 
@@ -10,7 +10,7 @@ TaskForge is a developer-oriented execution layer for structured, machine-run jo
 
 **[Open the live machine-readable catalog](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway)**
 
-### Direct paid services
+The live catalog and all eight paid routes advertise canonical HTTPS resource URLs, POST/JSON schemas, structured output examples, Base USDC payment requirements, and Bazaar discovery metadata.\n\n[View the marketplace listing pack](../marketplaces/taskforge-x402-listing-pack.md)\n\n### Direct paid services
 
 | Service | Price | x402 endpoint |
 |---|---:|---|
