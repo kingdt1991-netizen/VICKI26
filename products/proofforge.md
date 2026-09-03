@@ -30,6 +30,19 @@ These labels describe deployed commerce and fulfillment infrastructure. They do 
   Examines an AI/agent decision and the evidence trail supporting that decision.  
   [Buy Agent Decision Audit](https://buy.stripe.com/00wdR20b83kZb0S0Dyco00p)
 
+### Direct x402 services
+
+For machine buyers and developer workflows, ProofForge also offers two bounded pay-per-use services on Base:
+
+| Service | Price | Purpose |
+|---|---:|---|
+| SHA-256 Hash Verification | **$0.01 USDC** | Compare supplied content with a supplied SHA-256 digest |
+| Claim-to-Evidence Check | **$0.25 USDC** | Detect provenance indicators in supplied structured evidence for one bounded claim |
+
+[Use ProofForge x402 services](https://proof-quickscan.bktl-deont.chatgpt.site/proofforge/) • [Read the API documentation](https://proof-quickscan.bktl-deont.chatgpt.site/api/)
+
+These machine services are narrower than the human-reviewed reports below. Their responses explicitly state their assurance boundaries.
+
 ### What the buyer receives
 
 | Product | Scope | Delivered result |
