@@ -13,6 +13,8 @@
   &nbsp;•&nbsp;
   <a href="products/proofforge.md"><strong>Evidence Assurance</strong></a>
   &nbsp;•&nbsp;
+  <a href="products/quickscan.md"><strong>Release Preflight</strong></a>
+  &nbsp;•&nbsp;
   <a href="products/taskforge.md"><strong>x402 Services</strong></a>
   &nbsp;•&nbsp;
   <a href="products/ace.md"><strong>Enterprise A.C.E.</strong></a>
@@ -25,7 +27,8 @@
 | If you need to… | Start with | Price | Purchase path |
 |---|---|---:|---|
 | Prepare AI-built software for launch, customers, licensing, or diligence | **RightsGate** | $249–$1,499 | [Compare plans](products/rightsgate.md) |
-| Check claims, evidence packages, or an agent decision trail | **ProofForge** | $99–$1,499 | [View products](products/proofforge.md) |
+| Check claims, evidence packages, or an agent decision trail | **ProofForge** | $0.01 USDC or $99–$1,499 | [View products](products/proofforge.md) |
+| Scan configuration or release artifact text for common risk signals | **QuickScan** | $0.03–$0.10 USDC | [Use QuickScan](products/quickscan.md) |
 | Run a bounded machine-readable audit or preflight | **TaskForge Agent Assurance** | $0.01–$0.75 USDC | [Open x402 catalog](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway?source=github-storefront&campaign=taskforge-trust-launch) |
 | License governed autonomous-commerce infrastructure | **A.C.E.** | Enterprise | [Request licensing](https://ace-dusky-iota.vercel.app/?source=github) |
 
@@ -68,7 +71,19 @@ AI software-readiness audits for founders and teams preparing to commercialize A
 Evidence-focused assurance for claims, reports, evidence packages, and agent decisions.
 
 **Live products:** $99 Evidence Claim Check • $499 Evidence Assurance Report • $1,499 Agent Decision Audit  
-[View ProofForge products and checkout links](products/proofforge.md)
+[View ProofForge products and checkout links](products/proofforge.md) • [Use pay-per-use ProofForge](https://proof-quickscan.bktl-deont.chatgpt.site/proofforge/)
+
+---
+
+### QuickScan
+**by Black Knight Technology**
+
+**✓ Live x402 Endpoints** · **✓ Payment-Gated Execution** · **✓ Measurable Product Funnel**
+
+Fast deterministic configuration and artifact preflight checks for common secret, CORS, debug, insecure-HTTP, invalid-JSON, and release-risk signals.
+
+**Direct services:** $0.03 Configuration Security Preflight • $0.10 Artifact Release-Security Preflight  
+[**Use QuickScan**](products/quickscan.md) • [Developer documentation](https://proof-quickscan.bktl-deont.chatgpt.site/api/)
 
 ---
 
@@ -110,7 +125,8 @@ Evidence-focused assurance for claims, reports, evidence packages, and agent dec
 | Product | Payment | Intake | Delivered result |
 |---|---|---|---|
 | RightsGate | Stripe | Secure project and repository intake | Software-readiness findings and remediation priorities |
-| ProofForge | Stripe | Dedicated paid-intake workflow | Structured evidence or decision-assurance report |
+| ProofForge | Stripe or USDC on Base via x402 | Paid intake or machine-readable request | Human-reviewed report or bounded machine result |
+| QuickScan | USDC on Base via x402 | Machine-readable request payload | Bounded preflight findings and verification evidence |
 | TaskForge | USDC on Base via x402 | Machine-readable request payload | Verified result with machine-readable completion evidence |
 | A.C.E. | Controlled enterprise process | Qualification, agreement, and provisioning gates | Approved enterprise evaluation, license, or OEM engagement |
 
@@ -127,7 +143,8 @@ Black Knight Technology uses evidence-backed proof labels rather than unsupporte
 | Product | Primary buyer | Best use case | Availability |
 |---|---|---|---|
 | **RightsGate** | Founders, SaaS teams, AI developers | Commercial-readiness and software-rights review | Public purchase |
-| **ProofForge** | AI teams, operators, auditors | Evidence and decision assurance | Public purchase |
+| **ProofForge** | AI teams, operators, auditors | Evidence and decision assurance | Public purchase + direct x402 |
+| **QuickScan** | Developers, release teams, agents | Configuration and artifact security preflight | Direct x402 purchase |
 | **TaskForge Agent Assurance** | Developers, agents, workflow operators | Verified structured execution | Direct x402 purchase |
 | **A.C.E.** | Enterprise and advanced operators | Premium assurance and governed autonomous commerce | Enterprise engagement |
 
