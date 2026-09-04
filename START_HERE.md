@@ -10,10 +10,12 @@ Use this page to choose the right Black Knight Technology product quickly.
 | API, MCP, CI/CD, agent-permission, x402-commerce, or release-workflow preflight | [TaskForge Agent Assurance](products/taskforge.md) | $0.01–$0.75 USDC | Choose a catalog job, pay by x402 on Base, and receive verified machine-readable completion evidence |
 | A claim, evidence package, provenance trail, or AI-agent decision needs structured assurance | [ProofForge](products/proofforge.md) | $0.01–$0.25 USDC machine services or $99–$1,499 reports | Use a bounded x402 check or buy a human-reviewed report and complete secure intake |
 | AI-built software needs commercial-readiness, ownership, dependency, licensing, or diligence review | [RightsGate](products/rightsgate.md) | $249–$1,499 | Choose a Stripe plan, complete secure project/repository intake, and receive readiness findings and remediation priorities |
+| You want to evaluate governed autonomous-commerce infrastructure before discussing a license | [A.C.E. Free Evaluation](products/ace-evaluation.md) | $0 | Review public evaluation material; no software license or production-use rights are granted |
 | You need governed autonomous-commerce infrastructure for enterprise, OEM, or advanced internal use | [A.C.E.](products/ace.md) | Enterprise | Begin with qualification; approved engagements move through agreement, payment-verification, provisioning, and evidence gates |
 
 ## Fastest low-cost entry points
 
+- **Free:** [A.C.E. Free Evaluation](products/ace-evaluation.md)
 - **$0.01 USDC:** [TaskForge Endpoint Health Trust Launch](products/taskforge.md)
 - **$0.01 USDC:** [ProofForge SHA-256 Hash Verification](products/proofforge.md)
 - **$0.03 USDC:** [QuickScan Configuration Security Preflight](products/quickscan.md)
@@ -29,11 +31,12 @@ Use the matching product above first when you need a fast diagnostic or assuranc
 
 - **Stripe:** human-purchased reports and audits
 - **USDC on Base via x402:** direct machine-readable services
-- **A.C.E.:** controlled enterprise qualification and licensing path
+- **A.C.E. Free Evaluation:** no purchase required; evaluation only
+- **A.C.E. Enterprise:** controlled qualification and licensing path
 
 ## What we do not do automatically
 
-Purchasing or viewing a standard product does not authorize outbound spending, paid bidding, purchases, custody, private-network access, arbitrary code execution, or access to private Black Knight Technology repositories.
+Purchasing, evaluating, or viewing a standard product does not authorize outbound spending, paid bidding, purchases, custody, private-network access, arbitrary code execution, or access to private Black Knight Technology repositories.
 
 ---
 
