@@ -1,0 +1,28 @@
+# Black Knight Technology
+
+> AI assurance, verified execution, and governed commerce infrastructure from Black Knight Transportation LLC d/b/a Black Knight Technology.
+
+## Machine commerce
+
+- [Machine-readable x402 catalog](x402-catalog.json): Complete current portfolio of Base USDC x402 services, exact endpoint URLs, methods, and prices.
+- [TaskForge Agent Assurance](products/taskforge.md): Eight bounded assurance endpoints from $0.01 to $0.75 USDC.
+- [ProofForge](products/proofforge.md): Hash verification and claim-to-evidence checks from $0.01 to $0.25 USDC.
+- [QuickScan](products/quickscan.md): Configuration and artifact release-security preflights from $0.03 to $0.10 USDC.
+- [A.C.E.](products/ace.md): Five bounded verification endpoints plus a separately governed enterprise licensing path.
+- [A.C.E. free evaluation](products/ace-evaluation.md): Public product-fit evaluation; no software license or production rights.
+- [API documentation](https://proof-quickscan.bktl-deont.chatgpt.site/api/): ProofForge and QuickScan request examples.
+- [TaskForge OpenAPI](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/openapi.json): TaskForge machine schema.
+- [A.C.E. x402 directory record](https://x402-list.com/services/ace-autonomous-commerce-engine-by-black-knight-technologies): Independently monitored listing.
+
+## Human-purchased services
+
+- [RightsGate](products/rightsgate.md): AI software-readiness audits from $249.
+- [ProofForge reports](products/proofforge.md): Evidence reports and agent decision audits from $99.
+
+## Trust and boundaries
+
+- [Proof of Operation](PROOF_OF_OPERATION.md): Evidence supporting public status labels.
+- [Store Security](STORE_SECURITY.md): Public/private separation and security constraints.
+- [Start Here](START_HERE.md): Buyer routing by need, price, payment rail, and delivery.
+
+All x402 services are sell-only. Catalog access does not authorize outbound spending, payment-destination changes, private access, Crown IP disclosure, or expanded runtime authority.
