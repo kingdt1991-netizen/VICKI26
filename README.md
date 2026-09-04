@@ -19,6 +19,8 @@
   &nbsp;•&nbsp;
   <a href="products/taskforge.md"><strong>x402 Services</strong></a>
   &nbsp;•&nbsp;
+  <a href="products/ace-evaluation.md"><strong>Free A.C.E. Evaluation</strong></a>
+  &nbsp;•&nbsp;
   <a href="products/ace.md"><strong>Enterprise A.C.E.</strong></a>
 </p>
 
@@ -32,6 +34,7 @@
 | Check claims, evidence packages, provenance, or an agent decision trail | **ProofForge** | $0.01–$0.25 USDC or $99–$1,499 reports | [View products](products/proofforge.md) |
 | Scan configuration or release artifact text for common risk signals | **QuickScan** | $0.03–$0.10 USDC | [Use QuickScan](products/quickscan.md) |
 | Run a bounded machine-readable API, MCP, CI/CD, agent, x402, or release preflight | **TaskForge Agent Assurance** | $0.01–$0.75 USDC | [Open x402 catalog](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway?source=github-storefront&campaign=taskforge-trust-launch) |
+| Evaluate A.C.E. before licensing | **A.C.E. Free Evaluation** | **Free** | [Open evaluation](products/ace-evaluation.md) |
 | License governed autonomous-commerce infrastructure | **A.C.E.** | Enterprise | [Request licensing](https://ace-dusky-iota.vercel.app/?source=github) |
 
 **Payment rails:** Stripe for human-purchased reports and audits • USDC on Base for direct x402 execution  
@@ -107,6 +110,19 @@ Fast deterministic configuration and artifact preflight checks for common secret
 
 ---
 
+### A.C.E. Free Evaluation
+**by Black Knight Technology**
+
+**Free to review** · **Evaluation only** · **Commercial use requires a license**
+
+Explore A.C.E.'s governed decision model, evidence-backed workflow concepts, public proof, and licensing path before entering an enterprise engagement.
+
+**Price: $0.** The free evaluation does not grant source code, production-use rights, deployment rights, redistribution rights, OEM rights, or a software license.
+
+[**Open the A.C.E. Free Evaluation**](products/ace-evaluation.md)
+
+---
+
 ### A.C.E. — Autonomous Commerce Engine
 **by Black Knight Technology**
 
@@ -130,9 +146,10 @@ Fast deterministic configuration and artifact preflight checks for common secret
 | ProofForge | Stripe or USDC on Base via x402 | Paid intake or machine-readable request | Human-reviewed report or bounded machine result |
 | QuickScan | USDC on Base via x402 | Machine-readable request payload | Bounded preflight findings and verification evidence |
 | TaskForge | USDC on Base via x402 | Machine-readable request payload | Verified result with machine-readable completion evidence |
+| A.C.E. Free Evaluation | None | Public evaluation material | Product-fit understanding and enterprise licensing next step; no license granted |
 | A.C.E. | Controlled enterprise process for licensing; bounded machine-service surfaces remain separate | Qualification, agreement, and provisioning gates for enterprise engagements | Approved enterprise evaluation, license, or OEM engagement |
 
-Delivery timing for human-reviewed products is confirmed after scope validation. A.C.E. enterprise access is never granted by viewing this public repository or by purchasing a bounded machine service.
+Delivery timing for human-reviewed products is confirmed after scope validation. A.C.E. enterprise access is never granted by viewing this public repository, opening the free evaluation, or purchasing a bounded machine service.
 
 ## Product proof
 
@@ -148,6 +165,7 @@ Black Knight Technology uses evidence-backed proof labels rather than unsupporte
 | **ProofForge** | AI teams, operators, auditors | Evidence and decision assurance | Public purchase + direct x402 |
 | **QuickScan** | Developers, release teams, agents | Configuration and artifact security preflight | Direct x402 purchase |
 | **TaskForge Agent Assurance** | Developers, agents, workflow operators | Verified structured execution | Direct x402 purchase |
+| **A.C.E. Free Evaluation** | Prospective enterprise/OEM buyers | Zero-cost product discovery and fit evaluation | Free public evaluation; no license rights |
 | **A.C.E.** | Enterprise and advanced operators | Premium assurance and governed autonomous commerce | Enterprise engagement; bounded machine-service surfaces are separate |
 
 ## Why Black Knight Technology
