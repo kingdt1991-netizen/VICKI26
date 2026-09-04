@@ -9,6 +9,8 @@
 </p>
 
 <p align="center">
+  <a href="START_HERE.md"><strong>Start Here</strong></a>
+  &nbsp;•&nbsp;
   <a href="products/rightsgate.md"><strong>Software Readiness</strong></a>
   &nbsp;•&nbsp;
   <a href="products/proofforge.md"><strong>Evidence Assurance</strong></a>
@@ -20,16 +22,16 @@
   <a href="products/ace.md"><strong>Enterprise A.C.E.</strong></a>
 </p>
 
-> **Start here:** Choose a product below, complete its approved Stripe or x402 payment path, and follow the secure intake instructions. Standard products route into their dedicated fulfillment workflows; enterprise A.C.E. engagements begin with qualification.
+> **New buyer? [Start here](START_HERE.md).** Match your problem to the right product, see the price, payment rail, and what happens after purchase before you buy.
 
 ## Choose the right product
 
 | If you need to… | Start with | Price | Purchase path |
 |---|---|---:|---|
 | Prepare AI-built software for launch, customers, licensing, or diligence | **RightsGate** | $249–$1,499 | [Compare plans](products/rightsgate.md) |
-| Check claims, evidence packages, or an agent decision trail | **ProofForge** | $0.01 USDC or $99–$1,499 | [View products](products/proofforge.md) |
+| Check claims, evidence packages, provenance, or an agent decision trail | **ProofForge** | $0.01–$0.25 USDC or $99–$1,499 reports | [View products](products/proofforge.md) |
 | Scan configuration or release artifact text for common risk signals | **QuickScan** | $0.03–$0.10 USDC | [Use QuickScan](products/quickscan.md) |
-| Run a bounded machine-readable audit or preflight | **TaskForge Agent Assurance** | $0.01–$0.75 USDC | [Open x402 catalog](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway?source=github-storefront&campaign=taskforge-trust-launch) |
+| Run a bounded machine-readable API, MCP, CI/CD, agent, x402, or release preflight | **TaskForge Agent Assurance** | $0.01–$0.75 USDC | [Open x402 catalog](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway?source=github-storefront&campaign=taskforge-trust-launch) |
 | License governed autonomous-commerce infrastructure | **A.C.E.** | Enterprise | [Request licensing](https://ace-dusky-iota.vercel.app/?source=github) |
 
 **Payment rails:** Stripe for human-purchased reports and audits • USDC on Base for direct x402 execution  
@@ -68,7 +70,7 @@ AI software-readiness audits for founders and teams preparing to commercialize A
   </a>
 </p>
 
-Evidence-focused assurance for claims, reports, evidence packages, and agent decisions.
+Evidence-focused assurance for claims, reports, evidence packages, provenance, and agent decisions.
 
 **Live products:** $99 Evidence Claim Check • $499 Evidence Assurance Report • $1,499 Agent Decision Audit  
 [View ProofForge products and checkout links](products/proofforge.md) • [Use pay-per-use ProofForge](https://proof-quickscan.bktl-deont.chatgpt.site/proofforge/)
@@ -116,7 +118,7 @@ Fast deterministic configuration and artifact preflight checks for common secret
   </a>
 </p>
 
-**Premium enterprise product.** Advanced assurance, commercial control, and governed autonomous machine-workflow infrastructure for sophisticated operators and integrations.
+**Premium enterprise product with separately bounded machine-service surfaces.** Low-scope API execution does not grant a software license, source-code access, deployment rights, or enterprise runtime authority.
 
 [View A.C.E.](products/ace.md) • [Request enterprise licensing](https://ace-dusky-iota.vercel.app/?source=github)
 
@@ -128,9 +130,9 @@ Fast deterministic configuration and artifact preflight checks for common secret
 | ProofForge | Stripe or USDC on Base via x402 | Paid intake or machine-readable request | Human-reviewed report or bounded machine result |
 | QuickScan | USDC on Base via x402 | Machine-readable request payload | Bounded preflight findings and verification evidence |
 | TaskForge | USDC on Base via x402 | Machine-readable request payload | Verified result with machine-readable completion evidence |
-| A.C.E. | Controlled enterprise process | Qualification, agreement, and provisioning gates | Approved enterprise evaluation, license, or OEM engagement |
+| A.C.E. | Controlled enterprise process for licensing; bounded machine-service surfaces remain separate | Qualification, agreement, and provisioning gates for enterprise engagements | Approved enterprise evaluation, license, or OEM engagement |
 
-Delivery timing for human-reviewed products is confirmed after scope validation. A.C.E. access is never granted by viewing this public repository.
+Delivery timing for human-reviewed products is confirmed after scope validation. A.C.E. enterprise access is never granted by viewing this public repository or by purchasing a bounded machine service.
 
 ## Product proof
 
@@ -146,7 +148,7 @@ Black Knight Technology uses evidence-backed proof labels rather than unsupporte
 | **ProofForge** | AI teams, operators, auditors | Evidence and decision assurance | Public purchase + direct x402 |
 | **QuickScan** | Developers, release teams, agents | Configuration and artifact security preflight | Direct x402 purchase |
 | **TaskForge Agent Assurance** | Developers, agents, workflow operators | Verified structured execution | Direct x402 purchase |
-| **A.C.E.** | Enterprise and advanced operators | Premium assurance and governed autonomous commerce | Enterprise engagement |
+| **A.C.E.** | Enterprise and advanced operators | Premium assurance and governed autonomous commerce | Enterprise engagement; bounded machine-service surfaces are separate |
 
 ## Why Black Knight Technology
 
