@@ -10,6 +10,14 @@ A.C.E. is Black Knight Technology's premium commercial assurance and governed au
 
 It is positioned for advanced operators that need more than a single-purpose developer utility: stronger decision control, commercial-readiness checks, machine-executable workflows, evidence-backed release decisions, and governed automation across complex product or service operations.
 
+### Start with the free evaluation
+
+Prospective buyers can review a **$0 A.C.E. Free Evaluation** before entering the enterprise licensing process.
+
+**[Open the A.C.E. Free Evaluation](ace-evaluation.md)**
+
+The free evaluation is informational only. It does not grant source-code access, production-use rights, deployment rights, redistribution rights, OEM rights, or a software license.
+
 ### Two ways A.C.E. is exposed
 
 A.C.E. has both **bounded machine-service surfaces** and a separate **enterprise licensing path**.
@@ -50,7 +58,7 @@ A.C.E. is intentionally not presented as a casual low-cost software license. Bou
 
 ### Product ownership and licensing
 
-A.C.E. is a proprietary Black Knight Technology product. Public access to this storefront, a machine-service endpoint, or the product portal does not grant source-code access, runtime authority, implementation rights, deployment rights, or a software license.
+A.C.E. is a proprietary Black Knight Technology product. Public access to this storefront, a machine-service endpoint, the free evaluation, or the product portal does not grant source-code access, runtime authority, implementation rights, deployment rights, or a software license.
 
 Formal agreements, invoices, banking records, and other legal documents may identify the contracting party as **Black Knight Transportation LLC d/b/a Black Knight Technology** where required. The customer-facing product identity remains **A.C.E. by Black Knight Technology**.
 
