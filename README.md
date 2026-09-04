@@ -26,6 +26,8 @@
 
 > **New buyer? [Start here](START_HERE.md).** Match your problem to the right product, see the price, payment rail, and what happens after purchase before you buy.
 
+> **AI agent or marketplace?** Read [llms.txt](llms.txt) or load the [machine-readable x402 catalog](x402-catalog.json). Directory operators can use the [portfolio listing pack](marketplaces/x402-portfolio-listing-pack.md).
+
 ## Choose the right product
 
 | If you need to… | Start with | Price | Purchase path |
