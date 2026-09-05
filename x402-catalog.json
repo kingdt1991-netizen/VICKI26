@@ -4,156 +4,21 @@
   "merchant": "Black Knight Transportation LLC d/b/a Black Knight Technology",
   "website": "https://blackknightstech.com",
   "storefront": "https://github.com/kingdt1991-netizen/VICKI26",
-  "payment": {
-    "protocol": "x402",
-    "version": 2,
-    "network": "eip155:8453",
-    "network_name": "Base",
-    "asset": "USDC"
-  },
-  "discovery_updated_at": "2026-09-04",
+  "payment": {"protocol":"x402","version":2,"network":"eip155:8453","network_name":"Base","asset":"USDC"},
+  "discovery_updated_at": "2026-09-05",
   "services": [
-    {
-      "product": "TaskForge Agent Assurance",
-      "category": "AI assurance",
-      "catalog_url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway",
-      "documentation": "https://github.com/kingdt1991-netizen/VICKI26/blob/main/products/taskforge.md",
-      "endpoints": [
-        {
-          "id": "CATALOG_ENDPOINT_HEALTH_AUDIT",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CATALOG_ENDPOINT_HEALTH_AUDIT",
-          "price_usd": 0.01
-        },
-        {
-          "id": "MACHINE_SERVICE_HEALTH_REPORT",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/MACHINE_SERVICE_HEALTH_REPORT",
-          "price_usd": 0.1
-        },
-        {
-          "id": "MCP_SECURITY_PERMISSION_AUDIT",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/MCP_SECURITY_PERMISSION_AUDIT",
-          "price_usd": 0.25
-        },
-        {
-          "id": "CICD_SUPPLY_CHAIN_AUDIT",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CICD_SUPPLY_CHAIN_AUDIT",
-          "price_usd": 0.25
-        },
-        {
-          "id": "AGENT_PERMISSION_AUDIT",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/AGENT_PERMISSION_AUDIT",
-          "price_usd": 0.25
-        },
-        {
-          "id": "X402_COMMERCE_INTEGRITY_AUDIT",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/X402_COMMERCE_INTEGRITY_AUDIT",
-          "price_usd": 0.25
-        },
-        {
-          "id": "RELEASE_READINESS_WORKFLOW_AUDIT",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/RELEASE_READINESS_WORKFLOW_AUDIT",
-          "price_usd": 0.5
-        },
-        {
-          "id": "AGENT_STACK_SECURITY_AUDIT",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/AGENT_STACK_SECURITY_AUDIT",
-          "price_usd": 0.75
-        }
-      ]
-    },
-    {
-      "product": "ProofForge",
-      "category": "Verification",
-      "catalog_url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402",
-      "documentation": "https://proof-quickscan.bktl-deont.chatgpt.site/api/",
-      "endpoints": [
-        {
-          "id": "PROOF_HASH_VERIFICATION",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402/PROOF_HASH_VERIFICATION",
-          "price_usd": 0.01
-        },
-        {
-          "id": "PROOF_CLAIM_EVIDENCE_CHECK",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402/PROOF_CLAIM_EVIDENCE_CHECK",
-          "price_usd": 0.25
-        }
-      ]
-    },
-    {
-      "product": "QuickScan",
-      "category": "Security",
-      "catalog_url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402",
-      "documentation": "https://proof-quickscan.bktl-deont.chatgpt.site/api/",
-      "endpoints": [
-        {
-          "id": "QUICKSCAN_CONFIG_SCAN",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402/QUICKSCAN_CONFIG_SCAN",
-          "price_usd": 0.03
-        },
-        {
-          "id": "QUICKSCAN_ARTIFACT_SCAN",
-          "method": "POST",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402/QUICKSCAN_ARTIFACT_SCAN",
-          "price_usd": 0.1
-        }
-      ]
-    },
-    {
-      "product": "A.C.E. — Autonomous Commerce Engine",
-      "category": "Verification",
-      "catalog_url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway",
-      "directory_url": "https://x402-list.com/services/ace-autonomous-commerce-engine-by-black-knight-technologies",
-      "documentation": "https://github.com/kingdt1991-netizen/VICKI26/blob/main/products/ace.md",
-      "endpoints": [
-        {
-          "id": "part-identity-resolver",
-          "method": "GET",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway/part-identity-resolver",
-          "price_usd": 0.01
-        },
-        {
-          "id": "evidence-provenance-check",
-          "method": "GET",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway/evidence-provenance-check",
-          "price_usd": 0.1
-        },
-        {
-          "id": "source-commercial-use-check",
-          "method": "GET",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway/source-commercial-use-check",
-          "price_usd": 0.1
-        },
-        {
-          "id": "rights-clearance",
-          "method": "GET",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway/rights-clearance",
-          "price_usd": 0.25
-        },
-        {
-          "id": "release-certification",
-          "method": "GET",
-          "url": "https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway/release-certification",
-          "price_usd": 5
-        }
-      ]
-    }
+    {"product":"TaskForge Agent Assurance","category":"AI assurance","catalog_url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway","documentation":"https://github.com/kingdt1991-netizen/VICKI26/blob/main/products/taskforge.md","endpoints":[
+      {"id":"CATALOG_ENDPOINT_HEALTH_AUDIT","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CATALOG_ENDPOINT_HEALTH_AUDIT","price_usd":0.05},
+      {"id":"MACHINE_SERVICE_HEALTH_REPORT","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/MACHINE_SERVICE_HEALTH_REPORT","price_usd":0.1},
+      {"id":"MCP_SECURITY_PERMISSION_AUDIT","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/MCP_SECURITY_PERMISSION_AUDIT","price_usd":0.25},
+      {"id":"CICD_SUPPLY_CHAIN_AUDIT","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CICD_SUPPLY_CHAIN_AUDIT","price_usd":0.25},
+      {"id":"AGENT_PERMISSION_AUDIT","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/AGENT_PERMISSION_AUDIT","price_usd":0.25},
+      {"id":"X402_COMMERCE_INTEGRITY_AUDIT","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/X402_COMMERCE_INTEGRITY_AUDIT","price_usd":0.25},
+      {"id":"RELEASE_READINESS_WORKFLOW_AUDIT","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/RELEASE_READINESS_WORKFLOW_AUDIT","price_usd":0.5},
+      {"id":"AGENT_STACK_SECURITY_AUDIT","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/AGENT_STACK_SECURITY_AUDIT","price_usd":0.75}]},
+    {"product":"ProofForge","category":"Verification","catalog_url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402","documentation":"https://proof-quickscan.bktl-deont.chatgpt.site/api/","endpoints":[{"id":"PROOF_HASH_VERIFICATION","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402/PROOF_HASH_VERIFICATION","price_usd":0.05},{"id":"PROOF_CLAIM_EVIDENCE_CHECK","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402/PROOF_CLAIM_EVIDENCE_CHECK","price_usd":0.25}]},
+    {"product":"QuickScan","category":"Security","catalog_url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402","documentation":"https://proof-quickscan.bktl-deont.chatgpt.site/api/","endpoints":[{"id":"QUICKSCAN_CONFIG_SCAN","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402/QUICKSCAN_CONFIG_SCAN","price_usd":0.03},{"id":"QUICKSCAN_ARTIFACT_SCAN","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402/QUICKSCAN_ARTIFACT_SCAN","price_usd":0.1}]},
+    {"product":"A.C.E. — Autonomous Commerce Engine","category":"Verification","catalog_url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway","directory_url":"https://x402-list.com/services/ace-autonomous-commerce-engine-by-black-knight-technologies","documentation":"https://github.com/kingdt1991-netizen/VICKI26/blob/main/products/ace.md","endpoints":[{"id":"part-identity-resolver","method":"GET","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway/part-identity-resolver","price_usd":0.05},{"id":"evidence-provenance-check","method":"GET","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway/evidence-provenance-check","price_usd":0.1},{"id":"source-commercial-use-check","method":"GET","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway/source-commercial-use-check","price_usd":0.1},{"id":"rights-clearance","method":"GET","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway/rights-clearance","price_usd":0.25},{"id":"release-certification","method":"GET","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway/release-certification","price_usd":5}]}
   ],
-  "boundaries": [
-    "SELL_ONLY",
-    "No outbound spending",
-    "No payment-destination changes",
-    "No private source code or Crown IP",
-    "No expanded authority from catalog access"
-  ]
+  "boundaries":["SELL_ONLY","No outbound spending","No payment-destination changes","No private source code or Crown IP","No expanded authority from catalog access"]
 }
