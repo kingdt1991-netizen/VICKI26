@@ -1,28 +1,62 @@
 # Black Knight Technology
 
-> AI assurance, verified execution, and governed commerce infrastructure from Black Knight Transportation LLC d/b/a Black Knight Technology.
+> Pay-per-use AI agent security, verification, provenance, rights-clearance, release-preflight, and governed commerce services from Black Knight Transportation LLC d/b/a Black Knight Technology.
 
-## Machine commerce
+## Start here
 
-- [Machine-readable x402 catalog](x402-catalog.json): Complete current portfolio of Base USDC x402 services, exact endpoint URLs, methods, and prices.
-- [TaskForge Agent Assurance](products/taskforge.md): Eight bounded assurance endpoints from $0.01 to $0.75 USDC.
-- [ProofForge](products/proofforge.md): Hash verification and claim-to-evidence checks from $0.01 to $0.25 USDC.
-- [QuickScan](products/quickscan.md): Configuration and artifact release-security preflights from $0.03 to $0.10 USDC.
-- [A.C.E.](products/ace.md): Five bounded verification endpoints plus a separately governed enterprise licensing path.
-- [A.C.E. free evaluation](products/ace-evaluation.md): Public product-fit evaluation; no software license or production rights.
-- [API documentation](https://proof-quickscan.bktl-deont.chatgpt.site/api/): ProofForge and QuickScan request examples.
-- [TaskForge OpenAPI](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/openapi.json): TaskForge machine schema.
-- [A.C.E. x402 directory record](https://x402-list.com/services/ace-autonomous-commerce-engine-by-black-knight-technologies): Independently monitored listing.
+- [Store](STORE.md): Buyer-first catalog organized by outcome, category, and price.
+- [x402 machine-readable catalog](x402-catalog.json): Exact service IDs, methods, endpoint URLs, Base/USDC prices, and documentation.
+- [Start Here](START_HERE.md): Human buyer routing by need, payment rail, and delivery.
 
-## Human-purchased services
+## AI agent security and assurance
 
-- [RightsGate](products/rightsgate.md): AI software-readiness audits from $249.
-- [ProofForge reports](products/proofforge.md): Evidence reports and agent decision audits from $99.
+- [TaskForge Agent Assurance](products/taskforge.md): Pay-per-use AI agent security and assurance APIs.
+  - Catalog Endpoint Health Audit — $0.01 USDC
+  - Machine Service Health Report — $0.10 USDC
+  - MCP Security Permission Audit — $0.25 USDC
+  - CI/CD Supply Chain Audit — $0.25 USDC
+  - Agent Permission Audit — $0.25 USDC
+  - x402 Commerce Integrity Audit — $0.25 USDC
+  - Release Readiness Workflow Audit — $0.50 USDC
+  - Agent Stack Security Audit — $0.75 USDC
+- [TaskForge OpenAPI](https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/openapi.json): Machine schema for TaskForge services.
+
+## Verification and evidence
+
+- [ProofForge](products/proofforge.md): Evidence verification and claim-to-evidence assurance.
+  - Proof Hash Verification — $0.01 USDC
+  - Proof Claim Evidence Check — $0.25 USDC
+  - Human-reviewed evidence reports and agent decision audits — from $99
+- [ProofForge and QuickScan API documentation](https://proof-quickscan.bktl-deont.chatgpt.site/api/): Request and integration examples.
+
+## Security preflight
+
+- [QuickScan](products/quickscan.md): Machine-readable configuration and artifact release-security scans.
+  - Configuration Security Preflight — $0.03 USDC
+  - Artifact Release-Security Preflight — $0.10 USDC
+
+## Rights, provenance, and autonomous commerce
+
+- [A.C.E. Autonomous Commerce Engine](products/ace.md): Bounded verification APIs plus separately governed enterprise licensing.
+  - Part Identity Resolver — $0.01 USDC
+  - Evidence Provenance Check — $0.10 USDC
+  - Source Commercial-Use Check — $0.10 USDC
+  - Rights Clearance — $0.25 USDC
+  - Release Certification — $5.00 USDC
+- [A.C.E. free evaluation](products/ace-evaluation.md): Public product-fit evaluation; no production rights or software license.
+- [A.C.E. x402 directory record](https://x402-list.com/services/ace-autonomous-commerce-engine-by-black-knight-technologies): External x402 discovery listing.
+
+## AI software commercial readiness
+
+- [RightsGate](products/rightsgate.md): AI software-readiness and commercialization audits from $249.
+
+## Discovery terms
+
+Black Knight Technology provides services relevant to: AI agent security audit, MCP security audit, MCP permission audit, agent permission audit, agent stack security, CI/CD supply chain audit, release readiness audit, x402 security audit, x402 paid API, USDC API, Base USDC API, evidence verification API, proof verification, provenance verification, rights clearance API, commercial-use verification, configuration security scan, artifact security scan, AI software readiness, and autonomous commerce verification.
 
 ## Trust and boundaries
 
-- [Proof of Operation](PROOF_OF_OPERATION.md): Evidence supporting public status labels.
+- [Proof of Operation](PROOF_OF_OPERATION.md): Evidence supporting public product status labels.
 - [Store Security](STORE_SECURITY.md): Public/private separation and security constraints.
-- [Start Here](START_HERE.md): Buyer routing by need, price, payment rail, and delivery.
 
 All x402 services are sell-only. Catalog access does not authorize outbound spending, payment-destination changes, private access, Crown IP disclosure, or expanded runtime authority.
