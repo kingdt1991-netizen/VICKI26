@@ -2,8 +2,11 @@
 
 > Pay-per-use AI agent security, verification, provenance, rights-clearance, release-preflight, and governed commerce services from Black Knight Transportation LLC d/b/a Black Knight Technology.
 
+Canonical website: https://blackknightstech.com/
+
 ## Start here
 
+- [Answer Engine Guide](ANSWER_ENGINE_GUIDE.md): Concise, sourceable answers about Black Knight Technology, its products, use cases, and identity.
 - [Store](STORE.md): Buyer-first catalog organized by outcome, category, and price.
 - [x402 machine-readable catalog](x402-catalog.json): Exact service IDs, methods, endpoint URLs, Base/USDC prices, and documentation.
 - [Start Here](START_HERE.md): Human buyer routing by need, payment rail, and delivery.
