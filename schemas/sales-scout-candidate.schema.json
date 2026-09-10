@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://blackknighttechnology.example/schemas/sales-scout-candidate.schema.json",
+  "title": "Black Knight Technology Sales Scout Candidate",
+  "type": "object",
+  "required": ["candidate_id","source_url","observed_problem","recommended_lane","confidence","status","evidence_timestamp"],
+  "properties": {
+    "candidate_id": {"type":"string","minLength":1},
+    "source_url": {"type":"string","format":"uri"},
+    "organization_or_project": {"type":"string"},
+    "observed_problem": {"type":"string","minLength":1},
+    "recommended_lane": {"enum":["launch-readiness","agent-assurance","api-reliability","evidence-assurance","commerce-readiness","rights-gate","proof-forge","quickscan","taskforge","ace"]},
+    "recommended_offer": {"type":"string"},
+    "confidence": {"type":"number","minimum":0,"maximum":1},
+    "suggested_message": {"type":"string"},
+    "campaign_link": {"type":"string"},
+    "contact_permission_note": {"type":"string"},
+    "status": {"enum":["DISCOVERED","QUALIFIED","REVIEW","OUTREACH_SENT","ENGAGED","INTAKE_STARTED","PAID_VERIFIED","FULFILLED","SETTLED","REJECTED"]},
+    "rejection_reason": {"type":"string"},
+    "evidence_timestamp": {"type":"string","format":"date-time"}
+  },
+  "additionalProperties": false
+}
