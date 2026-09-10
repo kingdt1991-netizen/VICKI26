@@ -5,26 +5,45 @@
 <h1 align="center">Black Knight Technology</h1>
 
 <p align="center">
-  <strong>AI assurance, verified execution, and governed commerce infrastructure.</strong>
+  <strong>Verified AI systems for teams that need results they can prove.</strong>
 </p>
 
 <p align="center">
-  <a href="START_HERE.md"><strong>Start Here</strong></a>
+  <a href="solutions/README.md"><strong>Choose a Solution</strong></a>
   &nbsp;•&nbsp;
-  <a href="products/rightsgate.md"><strong>Software Readiness</strong></a>
+  <a href="BUYER_INTAKE.md"><strong>Tell Us the Problem</strong></a>
   &nbsp;•&nbsp;
-  <a href="products/proofforge.md"><strong>Evidence Assurance</strong></a>
+  <a href="PROOF_ACTIVITY_POLICY.md"><strong>Proof of Operation</strong></a>
   &nbsp;•&nbsp;
-  <a href="products/quickscan.md"><strong>Release Preflight</strong></a>
-  &nbsp;•&nbsp;
-  <a href="products/taskforge.md"><strong>x402 Services</strong></a>
-  &nbsp;•&nbsp;
-  <a href="products/ace-evaluation.md"><strong>Free A.C.E. Evaluation</strong></a>
-  &nbsp;•&nbsp;
-  <a href="products/ace.md"><strong>Enterprise A.C.E.</strong></a>
+  <a href="x402-catalog.json"><strong>Machine-Readable x402 Catalog</strong></a>
 </p>
 
-> **New buyer? [Start here](START_HERE.md).** Match your problem to the right product, see the price, payment rail, and what happens after purchase before you buy.
+## What are you trying to do?
+
+| Your goal | Best starting point | Next action |
+|---|---|---|
+| **Launch my software safely** | RightsGate + QuickScan + ProofForge | [Open Launch Readiness](solutions/launch-readiness.md) |
+| **Verify work, claims, or evidence** | ProofForge | [Open Evidence Assurance](solutions/evidence-assurance.md) |
+| **Check APIs, releases, or machine services** | QuickScan + TaskForge | [Open API Reliability](solutions/api-reliability.md) |
+| **Assure an AI agent or automated workflow** | TaskForge + ProofForge | [Open Agent Assurance](solutions/agent-assurance.md) |
+| **Automate governed commerce** | A.C.E. + assurance stack | [Open Commerce Readiness](solutions/commerce-readiness.md) |
+
+> Not sure which lane fits? Use the [Buyer Intake](BUYER_INTAKE.md) and describe the outcome you need. Do not post credentials, private keys, customer secrets, wallet signing material, or unpublished proprietary source.
+
+## The Black Knight closed loop
+
+**SCAN → EXECUTE → PROVE → CLEAR → GOVERN**
+
+**QuickScan → TaskForge → ProofForge → RightsGate → A.C.E.**
+
+The products remain independently purchasable. The closed loop shows how they can work together when a buyer needs more than one layer of assurance.
+
+## Standard next actions
+
+- **Buy Now** — fixed-price human-reviewed products and audits.
+- **Run a Check** — bounded x402/machine-service execution.
+- **Request Evaluation** — fit assessment before a larger engagement.
+- **Enterprise** — controlled licensing or custom governed-commerce engagement.
 
 > **AI agent or marketplace?** Read [llms.txt](llms.txt) or load the [machine-readable x402 catalog](x402-catalog.json). Directory operators can use the [portfolio listing pack](marketplaces/x402-portfolio-listing-pack.md).
 
@@ -90,7 +109,7 @@ Evidence-focused assurance for claims, reports, evidence packages, provenance, a
 Fast deterministic configuration and artifact preflight checks for common secret, CORS, debug, insecure-HTTP, invalid-JSON, and release-risk signals.
 
 **Direct services:** $0.03 Configuration Security Preflight • $0.10 Artifact Release-Security Preflight  
-[**Use QuickScan**](products/quickscan.md) • [Developer documentation](https://proof-quickscan.bktl-deont.chatgpt.site/api/)
+[**Run a Check**](products/quickscan.md) • [Developer documentation](https://proof-quickscan.bktl-deont.chatgpt.site/api/)
 
 ---
 
@@ -108,7 +127,7 @@ Fast deterministic configuration and artifact preflight checks for common secret
 **Audit up to 100 public API endpoints for $0.01 USDC.** No account, subscription, or manual approval—pay on Base and receive a verified machine-readable report in the same request.
 
 **Direct x402 catalog:** $0.01–$0.75 USDC per verified execution • No account or manual approval for standard catalog jobs  
-[**Use TaskForge Agent Assurance — services from $0.01**](products/taskforge.md)
+[**Run a Check — services from $0.01**](products/taskforge.md)
 
 ---
 
@@ -121,7 +140,7 @@ Explore A.C.E.'s governed decision model, evidence-backed workflow concepts, pub
 
 **Price: $0.** The free evaluation does not grant source code, production-use rights, deployment rights, redistribution rights, OEM rights, or a software license.
 
-[**Open the A.C.E. Free Evaluation**](products/ace-evaluation.md)
+[**Request Evaluation**](products/ace-evaluation.md)
 
 ---
 
@@ -138,7 +157,7 @@ Explore A.C.E.'s governed decision model, evidence-backed workflow concepts, pub
 
 **Premium enterprise product with separately bounded machine-service surfaces.** Low-scope API execution does not grant a software license, source-code access, deployment rights, or enterprise runtime authority.
 
-[View A.C.E.](products/ace.md) • [Request enterprise licensing](https://ace-dusky-iota.vercel.app/?source=github)
+[View A.C.E.](products/ace.md) • [**Enterprise**](https://ace-dusky-iota.vercel.app/?source=github)
 
 ## What happens after purchase
 
