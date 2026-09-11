@@ -1,0 +1,24 @@
+{
+  "x402Version": 2,
+  "name": "Black Knight Technology Machine Services",
+  "website": "https://blackknightstech.com/",
+  "merchant": "Black Knight Transportation LLC d/b/a Black Knight Technology",
+  "network": "eip155:8453",
+  "asset": "USDC",
+  "catalog": "https://raw.githubusercontent.com/kingdt1991-netizen/VICKI26/main/x402-catalog.json",
+  "openapi": "https://blackknightstech.com/openapi.json",
+  "skill": "https://blackknightstech.com/skill.md",
+  "resources": [
+    {"name":"Master Knight Endpoint Ping","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-x402/PING","price_usd":0.001,"category":"reliability"},
+    {"name":"Master Knight Verified Endpoint Diagnostic","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-x402/PUBLIC_ENDPOINT_DIAGNOSTIC","price_usd":0.01,"category":"reliability"},
+    {"name":"Master Knight x402 Challenge Validator","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-node-grid/X402_CHALLENGE_VALIDATE","price_usd":0.01,"category":"x402 validation"},
+    {"name":"Master Knight Receipt Verifier","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-node-grid/RECEIPT_VERIFY","price_usd":0.01,"category":"payment verification"},
+    {"name":"Master Knight MCP Permission Audit","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-node-grid/MCP_PERMISSION_AUDIT","price_usd":0.02,"category":"MCP security"},
+    {"name":"Master Knight API Auth Risk","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-node-grid/API_AUTH_RISK","price_usd":0.02,"category":"API security"},
+    {"name":"TaskForge Endpoint Health Audit","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/taskforge-x402-gateway/CATALOG_ENDPOINT_HEALTH_AUDIT","price_usd":0.01,"category":"agent assurance"},
+    {"name":"ProofForge Proof Hash Verification","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402/PROOF_HASH_VERIFICATION","price_usd":0.01,"category":"proof verification"},
+    {"name":"QuickScan Configuration Security Preflight","method":"POST","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/proof-quickscan-x402/QUICKSCAN_CONFIG_SCAN","price_usd":0.03,"category":"security preflight"},
+    {"name":"A.C.E. Part Identity Resolver","method":"GET","url":"https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/ace-x402-gateway/part-identity-resolver","price_usd":0.01,"category":"provenance"}
+  ],
+  "boundaries": ["public commercial metadata only","no private source code","no Crown IP","no credentials","no outbound spending authority"]
+}
