@@ -1,0 +1,63 @@
+{
+  "name": "Black Knight Technology Machine Services",
+  "description": "Bounded machine-callable verification, reliability, security, proof, provenance, and governed commerce services for autonomous agents and developers.",
+  "url": "https://blackknighttechnologys.com/",
+  "provider": {
+    "organization": "Black Knight Technology",
+    "url": "https://blackknighttechnologys.com/"
+  },
+  "protocolVersion": "1.0",
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "authentication": {
+    "schemes": ["x402"]
+  },
+  "skills": [
+    {
+      "id": "endpoint-reliability",
+      "name": "Endpoint Reliability",
+      "description": "Check public machine-service reachability, latency, status, and endpoint health before relying on a service.",
+      "tags": ["endpoint health", "API reliability", "uptime", "x402"]
+    },
+    {
+      "id": "agent-security",
+      "name": "AI Agent and MCP Security",
+      "description": "Audit agent permissions, MCP permissions, API authentication risk, CI/CD supply-chain risk, and x402 commerce integrity.",
+      "tags": ["AI agent security", "MCP security", "API security", "CI/CD", "x402 security"]
+    },
+    {
+      "id": "proof-verification",
+      "name": "Proof and Evidence Verification",
+      "description": "Verify hashes, proof claims, and supporting evidence using bounded machine-readable checks.",
+      "tags": ["proof verification", "evidence verification", "hash verification"]
+    },
+    {
+      "id": "security-preflight",
+      "name": "Security Preflight",
+      "description": "Perform bounded configuration and artifact security preflight checks before release or execution.",
+      "tags": ["security preflight", "configuration scan", "artifact scan"]
+    },
+    {
+      "id": "provenance-rights",
+      "name": "Provenance and Commercial Rights",
+      "description": "Resolve part identity, evidence provenance, commercial-use eligibility, rights clearance, and release certification.",
+      "tags": ["provenance", "commercial use", "rights clearance", "release certification"]
+    }
+  ],
+  "x402": {
+    "version": 2,
+    "network": "eip155:8453",
+    "asset": "USDC",
+    "manifest": "https://blackknighttechnologys.com/.well-known/x402",
+    "catalog": "https://raw.githubusercontent.com/kingdt1991-netizen/VICKI26/main/x402-catalog.json"
+  },
+  "boundaries": [
+    "sell-only services",
+    "no outbound spending authority",
+    "no payment-destination changes",
+    "no private source code or Crown IP disclosure",
+    "no expanded runtime authority from discovery metadata"
+  ]
+}
