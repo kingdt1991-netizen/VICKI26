@@ -1,4 +1,33 @@
 User-agent: *
 Allow: /
 
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
 Sitemap: https://blackknighttechnologys.com/sitemap.xml
+
+# Machine/AI discovery
+# https://blackknighttechnologys.com/llms.txt
+# https://blackknighttechnologys.com/ai.txt
+# https://raw.githubusercontent.com/kingdt1991-netizen/VICKI26/main/x402-catalog.json
