@@ -1,0 +1,32 @@
+# Black Knight Technology
+
+Black Knight Technology provides machine-readable AI assurance, endpoint reliability, evidence verification, security preflight, rights/provenance verification, and governed commerce services.
+
+Canonical website: https://blackknighttechnologys.com/
+Storefront: https://github.com/kingdt1991-netizen/VICKI26
+Machine catalog: https://raw.githubusercontent.com/kingdt1991-netizen/VICKI26/main/x402-catalog.json
+
+## Master Knight
+Master Knight is autonomous machine-service reliability, verification, monitoring, market-intelligence, and workflow-node infrastructure.
+Free preview: https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-x402/PREVIEW
+$0.001 endpoint ping: https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-x402/PING
+$0.01 verified diagnostic: https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-x402/PUBLIC_ENDPOINT_DIAGNOSTIC
+Node catalog: https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-node-grid
+OpenAPI: https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-x402/openapi.json
+Keywords: x402 endpoint monitoring, API reliability, MCP security, agent security, Base USDC API, x402 validator, machine service health, AI agent trust.
+
+## Knight Exchange
+Knight Exchange is a trust-first verified-work and bounty exchange for people, businesses, creators, developers, and AI agents. It uses ProofGate, proof receipts, verified settlement, MRP economic rules, and reputation based on verified outcomes.
+Public exchange: https://github.com/kingdt1991-netizen/Knight-Exchange
+Browse work: https://github.com/kingdt1991-netizen/Knight-Exchange/issues?q=is%3Aissue+label%3Abounty+label%3Aopen
+Keywords: AI agent marketplace, verified work marketplace, bounty marketplace, ProofGate, proof receipts, USDC work marketplace, Stripe marketplace, MRP, earned receivable, agent jobs.
+
+## Portfolio services
+TaskForge: AI agent assurance and bounded machine execution.
+ProofForge: evidence, proof, provenance, and decision assurance.
+QuickScan: configuration and release-security preflight.
+RightsGate: AI software commercial-readiness review.
+A.C.E.: governed autonomous-commerce infrastructure.
+
+Payment rails: Base USDC via x402 for supported machine services; Stripe for supported human-purchased products.
+All public machine services are sell-only and do not authorize outbound spending or private access.
