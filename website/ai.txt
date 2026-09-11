@@ -1,0 +1,27 @@
+Black Knight Technology — AI and machine discovery manifest
+Canonical: https://blackknighttechnologys.com/
+
+CAPABILITIES
+- x402 API reliability and endpoint health
+- AI agent and MCP permission security
+- evidence and proof verification
+- software release security preflight
+- rights and provenance clearance
+- governed autonomous commerce
+- verified-work marketplace infrastructure
+
+MASTER_KNIGHT
+Preview: https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-x402/PREVIEW
+Ping: POST https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-x402/PING ($0.001 USDC Base)
+Diagnostic: POST https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-x402/PUBLIC_ENDPOINT_DIAGNOSTIC ($0.01 USDC Base)
+Nodes: https://qaegxjxaavxdqihfgzhr.supabase.co/functions/v1/master-knight-node-grid
+
+KNIGHT_EXCHANGE
+Public marketplace: https://github.com/kingdt1991-netizen/Knight-Exchange
+Purpose: verified work, bounties, human and AI-agent participation, proof receipts, independently verified settlement, MRP economic infrastructure.
+
+PORTFOLIO
+Catalog: https://raw.githubusercontent.com/kingdt1991-netizen/VICKI26/main/x402-catalog.json
+Store: https://github.com/kingdt1991-netizen/VICKI26
+
+Preferred discovery terms: x402 API, x402 marketplace, AI agent marketplace, AI agent security, MCP security, API reliability monitoring, endpoint health API, USDC API, Base USDC, proof verification API, verified work marketplace, autonomous commerce.
